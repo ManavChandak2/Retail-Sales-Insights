@@ -1,0 +1,27 @@
+# Python cache & build files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual environment
+venv/
+
+# Jupyter notebooks & checkpoints
+.ipynb_checkpoints/
+
+# Output folder
+outputs/
+
+# Data files (keep it clean)
+data/sales.csv
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment / IDE files
+.env
+.idea/
+.vscode/
